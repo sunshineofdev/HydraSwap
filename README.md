@@ -1,4 +1,4 @@
-# Hydraswap DEX UI
+# PSRSSWAPp DEX UI
 
 An implementation of a UI for the HydraSwap DEX.
 
